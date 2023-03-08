@@ -1,0 +1,20 @@
+.wrapper {
+    margin: auto;
+    padding: 40px;
+    box-shadow: 2px 2px 12px rgba(0, 0, 0, 0.6);
+    margin-top: 20px;
+    width: 50%;
+    border-radius: 10px;
+}
+.card {
+    padding: 10px;
+    border: 1px solid black;
+    margin-top: 10px;
+    border-radius: 10px;
+}
+
+.search {
+    width: 60%;
+    padding: 10px;
+
+}
